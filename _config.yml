@@ -1,11 +1,12 @@
-title: "Assignment 2"
+title: "Final project"
 author: "Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481) "
-email: "215606@dtu.dk"
+email: "s232481@dtu.dk"
 description: >-
-  News reporting website based in SF
+  Final project for 02806 Social Data Analysis and Visualization
+
 baseurl: "" 
-url: "https://Anshjyot.github.io" 
-github_username: "Anshjyot"
+url: "https://victorandrevon.github.io/" 
+github_username: "AictorAndrevon"
 
 remote_theme: "daattali/beautiful-jekyll"
 plugins:
