@@ -16,17 +16,11 @@ plugins:
   - jekyll-paginate 
   - jekyll-archives 
 
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Visualizations"
-    url: "/visualizations"
-  - title: "Contact"
-    url: "/contact"
+navbar-links:
+  Home: "index"
+  About: "about"
+
+
 
 collections:
   projects:

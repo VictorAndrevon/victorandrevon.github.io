@@ -1,83 +1,82 @@
 ---
-layout: default
-title: "Project: Data Storytelling with City Data"
+layout: post
+title: "Where Dreams Go to Die? NYC Business Closures During COVID"
+date: 2025-04-30
+permalink: /
+show_excerpts: false
 ---
 
-# Understanding Drug Arrest Patterns in San Francisco
+# Where Dreams Go to Die?  
+### NYC Business Closures During COVID
 
-*Final Project for Data Visualization and Communication – DTU*
+New York City has always been a place where ambition collides with opportunity — a city built by small businesses, corner cafés, and immigrant-run shops. But the COVID-19 pandemic cracked that foundation.
 
----
+Suddenly, entire streets lost their pulse. Shuttered stores became the norm, not the exception. From SoHo to the South Bronx, dreams dissolved into “For Rent” signs. But was this collapse temporary? Or did something fundamental change in how NYC works, shops, and survives?
 
-## 💡 Project Overview
+This data story investigates that question.
 
-This project explores drug-related arrest patterns in San Francisco over the past 20 years using open police incident data. By analyzing spatial and temporal trends, we aim to shed light on how policies and policing strategies may have shifted across different neighborhoods and time periods.
-
----
-
-## 🎯 Research Question
-
-**How have drug-related arrest patterns changed over time and space in San Francisco, and what might this tell us about law enforcement priorities and urban policy?**
-
----
-
-## 🗺️ Data Sources
-
-- **San Francisco Open Data Portal**: [https://data.sfgov.org](https://data.sfgov.org)
-- Dataset: Arrests data (location + timestamp)
+Using datasets from NYC Open Data, the NYC Independent Budget Office, and the city’s own COVID-19 relief trackers, we explore what happened to the city’s business landscape — and whether it has returned to “normal.” 
 
 ---
 
-## 📊 Key Visualizations
+## 📊 Our Central Question
 
-### 1. **Time Series: Arrests Over Time**
-*(Static/interactive line chart showing trends by year/month)*
+**Did NYC’s small business ecosystem recover — or did COVID permanently alter the city’s economic heartbeat?**
 
-### 2. **Map: Arrest Locations**
-*(Heatmap or point map highlighting hotspots)*
+To answer that, we follow three storylines:
 
-### 3. **Interactive Bokeh Plot**
-*(Hourly + district-based arrest pattern with zoom/pan)*
+1. [🕓 A Business Rollercoaster: Trends Over Time](/trend-analysis)  
+   → How did the number of businesses rise, fall, and rebound?
 
-<iframe src="assets/images/bokeh_plot.html" style="width: 100%; max-width: 1100px; height: 600px; border: none;"></iframe>
+2. [🗺️ Neighborhoods Left Behind](/spatial-patterns)  
+   → Which areas were hit hardest — and which bounced back?
 
----
+3. [🏛️ The Role of Policy: Did Relief Efforts Work?](/policy-impact)  
+   → Did government intervention help stabilize or restore the business landscape?
 
-## 🧪 Preliminary Findings
-
-- Arrests show a consistent **daily rhythm**, peaking in the late afternoon.
-- The **Tenderloin**, **Mission**, and **Southern** districts are consistently overrepresented.
-- Recent years may indicate a strategic focus on central areas.
+Each section combines **public data, real-world locations, and analytical visuals** to uncover how NYC changed — and whether it’s still changing.
 
 ---
 
-## 📚 Data Story Genre
+## 🧰 The Data Behind the Story
 
-This project is presented as a **drill-down explanatory narrative**, allowing readers to first see high-level trends, then explore patterns within specific time frames and neighborhoods.
+This project uses open datasets from NYC public institutions, including:
 
----
+- **Issued Business Licenses**  
+  NYC Department of Consumer and Worker Protection
 
-## 📁 Deliverables
+- **COVID-19 Loan and Grant Distribution**  
+  NYC Comptroller & COVID Relief Tracker
 
-- ✅ A narrative website (this one!)
-- ✅ Jupyter notebook with full analysis (available [here](link-to-notebook-if-hosted))
-- 🎬 1-minute concept video (submitted to DTU Learn)
+- **Open Storefronts Applications**  
+  NYC Department of Transportation
 
----
-
-## 👩‍💻 Contributions
-
-- *Your Name*: Data analysis, notebook, visualizations
-- *Collaborator Name*: Front-end design, map visualization
-- *(Add more as needed)*
+- **Tax & Economic Indicators**  
+  NYC Independent Budget Office (IBO)
 
 ---
 
-## 📝 References
+## 💬 Why It Matters
 
-- Segel & Heer, "Narrative Visualization: Telling Stories with Data"
-- Ben Wellington’s blog: [iquantny.tumblr.com](http://iquantny.tumblr.com)
+Small businesses are more than economics — they’re the fabric of a city. They reflect who lives here, what communities value, and who has access to opportunity.
+
+By visualizing the timeline, geography, and policy response to business closures, this story helps us understand:
+
+- Who survived the shock — and who didn’t?
+- Did public policy mitigate the worst effects?
+- Are we witnessing a slow recovery — or a permanent reset?
 
 ---
 
-*Last updated: {{ site.time | date: "%B %d, %Y" }}*
+## 📚 Sources & References
+
+- NYC Open Data Portal: [https://data.cityofnewyork.us](https://data.cityofnewyork.us)
+- NYC COVID Relief Tracker: [https://www.nyccovidrelieftracker.com](https://www.nyccovidrelieftracker.com)
+- IBO Reports: [https://ibo.nyc.ny.us](https://ibo.nyc.ny.us)
+- NYC DOT – Open Storefronts: [https://data.cityofnewyork.us/Transportation/Open-Storefronts](https://data.cityofnewyork.us/Transportation/Open-Storefronts)
+- “COVID-19 Pandemic Shutters One-Third of NYC Small Businesses” — *New York Times*, Dec 2021
+- “NYC’s Economic Recovery Tracker” — *Independent Budget Office*, 2023
+
+---
+
+➡️ Dive into the first chapter: [🕓 Trend Analysis: The Business Rollercoaster](/trend-analysis)
