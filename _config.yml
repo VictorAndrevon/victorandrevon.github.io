@@ -18,7 +18,7 @@ plugins:
 
 navbar-links:
   Home: "index"
-  About: "about"
+  Trend: "trend-analysis"
 
 
 
