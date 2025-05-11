@@ -19,8 +19,27 @@ plugins:
 navbar-links:
   Home: "index"
   Trend: "trend-analysis"
+  Spatial: "spatial"
+  Policy: "policy"
 
+avatar: "/assets/images/avatar-icon.png"
+round-avatar: true
 
+#page-img: "/assets/images/background-nyc2.png"
+#navbar-img: "/assets/images/background-nyc2.png"
+#footer-img: "/assets/img/bgimage.png"
+
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 collections:
   projects:

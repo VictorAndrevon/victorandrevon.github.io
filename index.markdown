@@ -5,9 +5,14 @@ date: 2025-04-30
 permalink: /
 show_excerpts: false
 ---
+![Storefronts in NYC](assets/images/nyc.jpg)
 
 # Where Dreams Go to Die?  
 ### COVID-19 and the Fate of NYC’s Storefronts
+
+
+
+# This analysis reveals a pandemic recovery shaped not just by health and economics—but by geography, policy, and inequality.
 
 New York City once ran on the hum of corner bodegas, 24-hour diners, and mom-and-pop boutiques. Then March 2020 arrived. Within weeks, foot traffic collapsed, office towers emptied, and “For Lease” signs outnumbered open signs. Four years later, the city is busier—but is it the same? **This project asks one driving question:**
 
