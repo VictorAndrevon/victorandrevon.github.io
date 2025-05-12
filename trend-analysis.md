@@ -9,11 +9,15 @@ show_excerpts: false
 # 🕓 Trend Analysis  
 ### From Boom to Bust—and Back? NYC’s Business Licensing Trends, 2017–2025
 
-When the city that never sleeps hit pause in March 2020, the effects rippled far beyond Broadway and Wall Street. From nail salons in Queens to delis in the Bronx, small businesses across New York shuttered in numbers not seen in decades. But how deep was the collapse—and how strong was the rebound?
+When the city that never sleeps hit pause in March 2020, the effects rippled far beyond Broadway and Wall Street. From nail salons in Queens to delis in the Bronx, small businesses across New York shuttered in numbers not seen in decades. But how deep was the collapse—and how strong was the rebound that ensued?
 
 To find out, we analyzed every business license issued in NYC from 2017 through April 2025 using data from the Department of Consumer and Worker Protection (DCWP), via NYC Open Data. We cross-referenced this with official city COVID-19 case wave data and lockdown timelines [source: NYC Health Department, 2020–2022].
 
 ---
+
+<iframe src="/assets/images/NYC_License_Issuance_COVID_Milestones.png" style="width:100%; height: 600px; border:none;"></iframe>
+
+Looking at the Licence Issuance numbers gives a clear picture of a multi-phased story that coincides with the evolution of the pendemic. 
 
 ## 📉 The Crash: 2020’s Licensing Freefall
 
@@ -21,7 +25,7 @@ Between 2019 and 2021, business license issuances dropped a staggering **43%**, 
 
 > According to the license data, **March–May 2020** saw issuance numbers plunge by over 60% compared to the same months in 2019. Even by year-end, the numbers had not fully rebounded.
 
-COVID-19 case waves directly mirrored business hesitation: second and third waves in Fall 2020 and Winter 2021 coincided with further lulls in licensing. The hesitancy was palpable—entrepreneurs were holding back, unsure of what kind of city they’d be investing in.
+COVID-19 case waves directly mirrored business hesitation: second and third waves in Fall 2020 and Winter 2021 coincided with further drops in licensing. The hesitancy was palpable: entrepreneurs were holding back, unsure of what kind of city they’d be investing in.
 
 ---
 
@@ -29,7 +33,7 @@ COVID-19 case waves directly mirrored business hesitation: second and third wave
 
 Licensing began to rebound in 2021, with **4,156 licenses issued**, almost doubling the previous year. Growth continued into 2022 and 2023, reaching **5,865 new licenses by 2023**, the highest count since the pre-pandemic peak of 2018 (5,263 licenses).
 
-2024 followed closely behind with 5,506 new licenses, showing that while NYC may have been bruised, it wasn’t broken. Entrepreneurs returned—albeit with new priorities and perhaps a different appetite for risk.
+2024 followed closely behind with 5,506 new licenses, showing that while NYC may have been bruised, it wasn’t broken. Entrepreneurs returned with new priorities and perhaps a different appetite for risk.
 
 But the rebound wasn’t uniform.
 
@@ -47,7 +51,9 @@ DCWP licenses fall into two broad categories: **"Premises"** (tied to physical l
 | 2024 | 1,742                | 3,764             |
 | 2025 (partial) | 403        | 1,232             |
 
-This trend tells a revealing story. While physical stores did rebound, **individual licenses grew at a much faster rate**—nearly quadrupling between 2021 and 2023. This points to a post-pandemic shift: from brick-and-mortar to **gig and service-based work**.
+<iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height: 600px; border:none;"></iframe>
+
+This trend tells a revealing story. While physical stores did rebound, **individual licenses grew at a much faster rate**. During the 3rd quarter of 2020, which coincides with the beginning of NYC's reopening phase III, the issuance rate grew by 500% for individual licenses compared to only 100% for premises license. This points to a post-pandemic shift: from brick-and-mortar to **gig and service-based work**.
 
 Tour guides, home contractors, mobile vendors, and even remote workers may be fueling this “solo entrepreneur” resurgence. In essence, NYC's recovery wasn't just about re-opening storefronts—it was about **re-inventing work**.
 
@@ -63,8 +69,9 @@ The top business categories for new licenses in this period paint a clear pictur
 - **Electronics Store** – 3,828 licenses  
 - **Sightseeing Guide** – 3,490 licenses
 
-The dominance of home improvement licenses suggests a boom in repair and renovation work—perhaps driven by the work-from-home era. Sightseeing guides also rebounded strongly after a full halt in tourism, reflecting a renewed (if slower) return of global visitors.
+<iframe src="/assets/images/rebound.png" style="width:100%; height: 600px; border:none;"></iframe>
 
+Between the end of lockdown in June 2020 to the end of 2022, these sectors saw a massive increase in licenses issued. For sightseeing guides and pedicab drivers, the return of tourists after a period of international crisis directly translated into more job opportunities. For stores and retailers, the end of lockdown marked a comeback to regular shopping and consumption habits among New-Yorkers. Home Improvement Contractors, on the other hand, benefited from the durable shift to home-office and remote working.
 ---
 
 ## 🛑 Expired, Surrendered, or Closed: What Didn't Survive?
