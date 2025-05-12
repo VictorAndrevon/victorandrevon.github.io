@@ -15,9 +15,9 @@ To find out, we analyzed every business license issued in NYC from 2017 through 
 
 ---
 
-<iframe src="/assets/images/NYC_License_Issuance_COVID_Milestones.png" style="width:100%; height: 600px; border:none;"></iframe>
+<iframe src="/assets/images/NYC_License_Issuance_COVID_Milestones.png" style="width:100%; height:auto; border:none;"></iframe>
 
-Looking at the Licence Issuance numbers gives a clear picture of a multi-phased story that coincides with the evolution of the pendemic. 
+Looking at the license issuance numbers gives a clear picture of a multi-phased story that coincides with the evolution of the pandemic.
 
 ## 📉 The Crash: 2020’s Licensing Freefall
 
@@ -51,9 +51,9 @@ DCWP licenses fall into two broad categories: **"Premises"** (tied to physical l
 | 2024 | 1,742                | 3,764             |
 | 2025 (partial) | 403        | 1,232             |
 
-<iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height: 600px; border:none;"></iframe>
+<iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:auto; border:none;"></iframe>
 
-This trend tells a revealing story. While physical stores did rebound, **individual licenses grew at a much faster rate**. During the 3rd quarter of 2020, which coincides with the beginning of NYC's reopening phase III, the issuance rate grew by 500% for individual licenses compared to only 100% for premises license. This points to a post-pandemic shift: from brick-and-mortar to **gig and service-based work**.
+This trend tells a revealing story. While physical stores did rebound, **individual licenses grew at a much faster rate**. During the 3rd quarter of 2020, which coincides with the beginning of NYC's reopening phase III, the issuance rate grew by 500% for individual licenses compared to only 100% for premises licenses. This points to a post-pandemic shift: from brick-and-mortar to **gig and service-based work**.
 
 Tour guides, home contractors, mobile vendors, and even remote workers may be fueling this “solo entrepreneur” resurgence. In essence, NYC's recovery wasn't just about re-opening storefronts—it was about **re-inventing work**.
 
@@ -69,9 +69,10 @@ The top business categories for new licenses in this period paint a clear pictur
 - **Electronics Store** – 3,828 licenses  
 - **Sightseeing Guide** – 3,490 licenses
 
-<iframe src="/assets/images/rebound.png" style="width:100%; height: 600px; border:none;"></iframe>
+<iframe src="/assets/images/rebound.png" style="width:100%; height:auto; border:none;"></iframe>
 
-Between the end of lockdown in June 2020 to the end of 2022, these sectors saw a massive increase in licenses issued. For sightseeing guides and pedicab drivers, the return of tourists after a period of international crisis directly translated into more job opportunities. For stores and retailers, the end of lockdown marked a comeback to regular shopping and consumption habits among New-Yorkers. Home Improvement Contractors, on the other hand, benefited from the durable shift to home-office and remote working.
+Between the end of lockdown in June 2020 to the end of 2022, these sectors saw a massive increase in licenses issued. For sightseeing guides and pedicab drivers, the return of tourists after a period of international crisis directly translated into more job opportunities. For stores and retailers, the end of lockdown marked a comeback to regular shopping and consumption habits among New Yorkers. Home Improvement Contractors, on the other hand, benefited from the durable shift to home-office and remote working.
+
 ---
 
 ## 🛑 Expired, Surrendered, or Closed: What Didn't Survive?
@@ -122,3 +123,4 @@ While the skyline may look the same, the **economic DNA of NYC’s street-level 
 - COVID Wave Timing: NYC Health Department archives (2020–2022)
 
 *This section is part of “Where Dreams Go to Die? COVID-19 and the Fate of NYC’s Storefronts,” created for DTU Social Data 2025.*
+
