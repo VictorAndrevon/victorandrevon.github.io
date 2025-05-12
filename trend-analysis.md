@@ -53,7 +53,7 @@ DCWP licenses fall into two broad categories: **"Premises"** (tied to physical l
 | 2024 | 1,742                | 3,764             |
 | 2025 (partial) | 403        | 1,232             |
 
-<iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:50%; height:500px; border:none;"></iframe>
+<iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:500px; border:none;"></iframe>
 
 This trend tells a revealing story. While physical stores did rebound, **individual licenses grew at a much faster rate**. During the 3rd quarter of 2020, which coincides with the beginning of NYC's reopening phase III, the issuance rate grew by 500% for individual licenses compared to only 100% for premises licenses. This points to a post-pandemic shift: from brick-and-mortar to **gig and service-based work**.
 
