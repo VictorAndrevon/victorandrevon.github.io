@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Spatial Recovery — Comeback or Collapse by Neighborhood"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /spatial/
 show_excerpts: false
 ---
 
 ![Vacant storefront in the Bronx](assets/images/bronx_vacancy.jpg)
+<small><em>Photo: A row of shuttered storefronts in the Bronx, 2020.</em></small>
+
 
 # The Uneven Comeback
 
@@ -59,7 +61,7 @@ These granular differences underscore how pandemic recovery followed existing li
 
 ---
 
-## The New Urban Pulse: Rethinking Where Business Thrives
+## The New Geography of Commerce
 
 Before COVID-19, Midtown Manhattan, Lower Manhattan, and Downtown Brooklyn buzzed with dense clusters of small businesses.
 
@@ -76,7 +78,8 @@ As NYC Planning Director Dan Garodnick noted, these businesses are "breathing li
 Citywide policies—from outdoor dining expansions to zoning reforms and neighborhood grants—have played a key role in this shift. The data confirms what residents already sense: while downtowns recover unevenly, local neighborhoods are regaining momentum.
 
 ---
-## ⚖️ A Tale of Two Recoveries — And the Road Ahead
+
+## One City, Two Recoveries
 
 New York City's post-pandemic recovery has not been one story, but two.
 
@@ -100,10 +103,15 @@ Whether it’s **Midtown’s lingering drag** or the **resilience of East Brookl
 
 City leaders agree that revitalization efforts must be grounded in smart zoning, infrastructure investment, and support for entrepreneurs in historically underserved areas. If recovery is to be citywide, policy must go neighborhood by neighborhood.
 
+---
+
+**Neighborhood-level patterns are only part of the story.**  
+[See how citywide trends unfolded »](/trend-analysis)  
+[Or explore the policies that shaped recovery »](/policy)
 
 
 
-### Last updated: 30 April 2025  
+### Last updated: 13 May 2025 
 *Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*
 
 **Authors:** Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481)

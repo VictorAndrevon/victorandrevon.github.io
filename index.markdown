@@ -1,88 +1,104 @@
 ---
 layout: post
 title: "Where Dreams Go to Die? COVID-19 and the Fate of NYC’s Storefronts"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /
 show_excerpts: false
 ---
+
 ![Storefronts in NYC](assets/images/nyc.jpg)
+<small><em>Photo: Aerial view of Midtown Manhattan at sunset.</em></small>
+
 
 # Where Dreams Go to Die?  
 ### COVID-19 and the Fate of NYC’s Storefronts
 
+When the pandemic hit New York City, it didn’t just bring a health crisis—it reshaped the city’s economy at the street level. Restaurants, barbershops, corner stores—many of the businesses that gave neighborhoods their character—closed overnight. Four years later, some never returned.
 
+This project explores one core question:
 
-# This analysis reveals a pandemic recovery shaped not just by health and economics—but by geography, policy, and inequality.
+> **Did NYC’s small-business ecosystem truly recover, or did the pandemic leave a permanent scar?**
 
-New York City once ran on the hum of corner bodegas, 24-hour diners, and mom-and-pop boutiques. Then March 2020 arrived. Within weeks, foot traffic collapsed, office towers emptied, and “For Lease” signs outnumbered open signs. Four years later, the city is busier—but is it the same? **This project asks one driving question:**
-
-> **Did NYC’s small-business ecosystem _truly_ recover, or did the pandemic leave a permanent scar?**
-
-To answer, we traced every business license issued or surrendered since 2018, mapped vacancies block-by-block, and overlaid billions of dollars in relief spending. What emerged is a three-part story you can _explore_—zooming from a city-wide sweep down to single streets, and pulling up details on demand.
+Using data from NYC Open Data, local policy archives, and vacancy reports, this interactive, three-part story— moving from city-wide trends to neighborhood-specific patterns to the policies that shaped them.
 
 ---
 
-## 📍 Overview First: What the Numbers Say
+## What the Numbers Reveal
 
-* Business registrations plunged **43 % between 2019 and 2021**—the steepest two-year fall on record. :contentReference[oaicite:0]{index=0}  
-* **One in three storefronts that exist today opened _after_ Q1 2020**, proof of churn rather than full revival. :contentReference[oaicite:1]{index=1}  
-* Manhattan’s retail corridors still show **vacancy above 11 %—almost double pre-COVID levels**. :contentReference[oaicite:2]{index=2}  
-* The Financial District’s office core reports **15.5 % empty office space**; cafés and service shops remain sparse. :contentReference[oaicite:3]{index=3}  
-* SoHo, by contrast, rebounded fast—vacancy falling from **34.6 % in 2021 to 11.5 % by late 2024**. :contentReference[oaicite:4]{index=4}  
-* Relief money flowed unequally: Manhattan firms captured **63 % of City–run grants**, while the Bronx saw the fewest awards. :contentReference[oaicite:5]{index=5}
+- Business license registrations fell by **43% between 2019 and 2021**—the sharpest two-year decline on record.  
+- **One-third of storefronts in operation today opened _after_ Q1 2020**, reflecting churn, not stability.  
+- Midtown and FiDi still report **double-digit vacancy rates** in both retail and office space.  
+- By contrast, **SoHo saw a strong rebound**, with retail vacancy falling from 34.6% to 11.5% between 2021–2024.  
+- Relief distribution was **deeply uneven**: Manhattan captured 63% of city-run grants, while the Bronx got the fewest.  
 
-These patterns hint at unequal recovery—but the data is richer than a headline.
-
----
-
-## 🔀 How to Read This Story
-
-We built the site so **you** can decide where to linger:
-
-| Path | What you’ll see | Interactive moves |
-|------|-----------------|-------------------|
-| **🕓 Trend Analysis** <br> *A Business Rollercoaster* | Monthly license counts, overlays of COVID case waves, and rolling averages. | Scrub the timeline, toggle borough filters. |
-| **🗺️ Spatial Patterns** <br> *Neighborhoods Left Behind* | Choropleths of license density & animated vacancy heatmaps. | Zoom to any block, click for 2019-24 vacancy trend. |
-| **🏛️ Policy Impact** <br> *Did Aid Work?* | Grant & loan distribution vs. recovery speed, sector scatter-plots. | Hover for zip-code level numbers, filter by program. |
-
-Each chapter begins with a **big-picture view**, then lets you **zoom and filter**. Hover, click, or drag to get **details on demand**—numbers, addresses, even photos of still-vacant shops.
+It wasn’t only a slow recovery—it was uneven
 
 ---
 
-## 💾 Data & Methods at a Glance
+## Choose Your Path
 
-* **Issued & Active Business Licenses** – NYC DCWP Open Data. :contentReference[oaicite:6]{index=6}  
-* **Storefront Vacancy Census (Local Law 157)** – NYC City Council Data Team. :contentReference[oaicite:7]{index=7}  
-* **Storefront Activity 2024 Report** – NYC Department of City Planning. :contentReference[oaicite:8]{index=8}  
-* **COVID-19 Loans & Grants Dataset** – NYC Comptroller audit of SBS programs. :contentReference[oaicite:9]{index=9}  
-* **Retail Chain Reports** – Center for an Urban Future: *State of the Chains 2020–21*. :contentReference[oaicite:10]{index=10}  
-* **Sector Job Loss Brief** – NY State Comptroller on Restaurant, Retail & Recreation. :contentReference[oaicite:11]{index=11}  
-* **Office-Market Recovery Metrics** – NYCEDC *State of the NYC Economy 2024*. :contentReference[oaicite:12]{index=12}  
-* **Neighborhood Snapshots** – SoHo Broadway Initiative Retail Occupancy Study 2023. :contentReference[oaicite:13]{index=13}  
+Explore the site through three key lenses.
 
----
+| Section | Focus | What You'll See |
+|--------|-------|-----------------|
+| [Trend Analysis](/trend-analysis) | The crash and rebound | Monthly license issuance, COVID overlay, license type breakdown |
+| [Spatial Patterns](/spatial) | Where recovery happened (and didn’t) | Borough + NTA-level maps, density change, vacancy clusters |
+| [Policy Impact](/policy) | Who got help? Who got left behind? | Aid distribution by ZIP, business survival rates, grant disparity |
 
-## 👀 Why It Matters
-
-Small businesses are the city’s social fabric: they employ half the private workforce and anchor street-level life. Yet relief dollars, zoning flexibilities, and foot-traffic realities have created **winners and losers**. Unequal rebounds raise hard policy questions:
-
-* Are hybrid work patterns dooming central business districts?  
-* Did relief programs cushion closures—or simply delay them?  
-* Which communities still carry the heaviest economic burden?
-
-The answers aren’t just academic: they shape which blocks thrive, whose cultural landmarks survive, and where future entrepreneurs dare to sign a lease.
+Each view offers interactive maps, charts, and timelines. Click, hover, zoom—see the recovery for yourself.
 
 ---
 
-## ➡️ Start Exploring
 
-Begin with the timeline, then dive into maps or policy analytics:
+**Data sources include:**
 
-1. **[🕓 Trend Analysis](/trend-analysis)** – Follow the crash and climb.  
-2. **[🗺️ Spatial Patterns](/spatial-patterns)** – See which neighborhoods never bounced back.  
-3. **[🏛️ Policy Impact](/policy-impact)** – Decide for yourself if the aid worked.
+- [NYC Open Data – Issued Business Licenses](https://data.cityofnewyork.us/Business/Issued-Licenses/w7w3-xahh)  
+- [NYC SBS Certified Business List](https://www.nyc.gov/html/sbs/)  
+- [NYC Comptroller – MWBE Recovery Report (2020)](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/)  
+- [ACS Demographics – 2020](https://www.census.gov/programs-surveys/acs)  
+- [Federal Reserve Bank of New York – COVID Business Impact](https://www.newyorkfed.org/)  
+- [SBA Paycheck Protection Program Distribution Data](https://data.sba.gov/)  
+- [NYC SBS Council Testimony – 2020–2024](https://www.citymeetings.nyc/)  
+- [NYC SBS Recovery Grants Announcement – NYC.gov (Feb 2025)](https://www.nyc.gov/)  
+- [StatenIslander.org – BID Funding Coverage](https://www.statenislander.org/)  
+- [amNewYork – Business Recovery Reporting](https://www.amny.com/)  
+- [NYC Health Department – COVID Timeline Archives (2020–2022)](https://www.nyc.gov/site/doh/covid/covid-19-data-archive.page)  
+- [NYC Department of City Planning – Storefront Vacancy Report (Nov 2024)](https://www.nyc.gov/site/planning/about/press-releases/pr-20241115.page)  
+- [NYC Open Storefronts Program Overview](https://www.nyc.gov/office-of-the-mayor/news/742-20/recovery-agenda-mayor-de-blasio-open-storefronts-program)  
+- [SoHo Broadway Initiative – Retail Occupancy Study 2023](https://sohobroadway.org/retail-study-2023/)  
+- [Center for an Urban Future – State of the Chains 2020–21](https://nycfuture.org/research/state-of-the-chains-2021)  
+- [NY State Comptroller – Sector Job Loss in Food, Retail, and Entertainment](https://www.osc.state.ny.us/reports)  
+- [NYCEDC – Office Market Metrics / Economic Recovery Reports](https://edc.nyc/research-and-data)  
+- [The New York Times – “One-Third of NYC’s Small Businesses May Be Gone Forever” (2020)](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)  
+- [The New York Times – “Pandemic Startups Are Thriving…” (2024)](https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html)  
+- [NY Post – NYC Tech Boom Neighborhoods (2024)](https://nypost.com/2024/06/14/tech/these-neighborhoods-are-the-epicenter-of-nycs-tech-boom/)
+
 
 ---
 
-### Last updated: 30 April 2025  
-*Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*  
+## Why This Matters
+
+Small businesses are more than economic units—they’re part of what holds neighborhoods together. But after COVID, some areas rebounded quickly. Others didn’t. This raises uncomfortable questions:
+
+- Did aid go where it was most needed—or where it was easiest to deliver?  
+- Are we seeing a recovery—or is opportunity drifting away from certain communities?
+- Who’s rebuilding, and who’s being priced out of their own comeback?
+
+Understanding what happened isn’t just about looking back. It’s about deciding what kind of city comes next.
+
+---
+
+
+## Jump into any chapter:
+
+
+1. **[Trend Analysis](/trend-analysis)** – How deep was the crash? What kind of recovery followed?  
+2. **[Spatial Patterns](/spatial)** – Which neighborhoods revived, and which are still struggling?  
+3. **[Policy Impact](/policy)** – Did relief programs help—or leave too many behind?
+
+
+
+### Last updated: 13 May 2025  
+*Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*
+
+**Authors:** Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481)
