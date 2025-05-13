@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Where Dreams Go to Die? COVID-19 and the Fate of NYC’s Storefronts"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /
 show_excerpts: false
 ---
 
 ![Storefronts in NYC](assets/images/nyc.jpg)
+<small><em>Photo: Aerial view of Midtown Manhattan at sunset.</em></small>
+
 
 # Where Dreams Go to Die?  
 ### COVID-19 and the Fate of NYC’s Storefronts

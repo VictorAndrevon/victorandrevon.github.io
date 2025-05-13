@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Spatial Recovery — Comeback or Collapse by Neighborhood"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /spatial/
 show_excerpts: false
 ---
 
 ![Vacant storefront in the Bronx](assets/images/bronx_vacancy.jpg)
+<small><em>Photo: A row of shuttered storefronts in the Bronx, 2020.</em></small>
+
 
 # The Uneven Comeback
 

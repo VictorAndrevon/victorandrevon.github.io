@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trend Analysis — NYC's Business Boom, Bust, and Rebirth"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /trend-analysis/
 show_excerpts: false
 ---

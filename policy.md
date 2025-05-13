@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Who Was Left Behind? Business Recovery, Policy, and Inequality"
-date: 2025-04-30
+date: 2025-05-13
 permalink: /policy/
 show_excerpts: false
 ---
 
 ![Shuttered storefront in NYC](assets/images/shuttered_covid.jpg)
+<small><em>Photo: Handwritten closure notice on a storefront during a COVID-19 spike.</em></small>
+
 
 # Who Was Left Behind?
 
