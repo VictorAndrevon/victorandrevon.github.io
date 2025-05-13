@@ -23,7 +23,7 @@ The license issuance numbers reveal a clear, multi-phased narrative that mirrors
 
 From 2017 to March 2020, license issuance in NYC was fairly stable, averaging between 800 and 900 new licenses per month, with expected seasonal variation. However, as COVID-19 spread and uncertainty grew, the numbers plummeted. By May 2020, only **128 licenses** were issued—down from **894 in February**. This represents an **85.7% decrease** over just three months.
 
-With health regulations shifting rapidly and consumer behavior transforming overnight, launching a new business became a daunting proposition. Many aspiring entrepreneurs chose to wait, while existing small businesses struggled to survive.
+As regulations and customer behavior changed rapidly, opening a new business felt too risky. Many potential entrepreneurs postponed their plans, and existing businesses struggled to remain viable.
 
 > “As a small-business owner, I’m surprised that more businesses have not closed yet,” said Andrea Dillon, the owner of a day care in Brooklyn. ([New York Times, 2020](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html))
 
@@ -100,6 +100,14 @@ New York’s post-COVID business rebound isn’t just about raw numbers—it’s
 In short, the city’s economy is no longer quite the same. Its skyline might be unchanged, but beneath it, the **business landscape has been reshaped** by crisis, creativity, and adaptation.
 
 Understanding this evolution is key—not only to assessing recovery, but to **preparing for what comes next**. However, looking at city-wide trends might not tell the whole story and in a metropolis as eclectic as New York, the picture can be very different from one side of the street to the other.
+
+---
+
+**Citywide trends tell one story. What about the neighborhoods left behind?**  
+[See the spatial breakdown »](/spatial)
+
+**Recovery didn’t just depend on resilience—it depended on policy.**  
+[See how aid was delivered »](/policy)
 
 
 ### Last updated: 13 May 2025  

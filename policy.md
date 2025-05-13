@@ -91,6 +91,10 @@ The pandemic revealed systemic weaknesses that disproportionately impacted vulne
 
 ---
 
+**Policy shaped outcomes—but so did place and timing.**  
+[See where recovery landed on the map »](/spatial)  
+[Or explore how business trends evolved citywide »](/trend-analysis)
+
 
 ### Last updated: 13 May 2025  
 *Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*

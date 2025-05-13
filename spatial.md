@@ -103,6 +103,11 @@ Whether it’s **Midtown’s lingering drag** or the **resilience of East Brookl
 
 City leaders agree that revitalization efforts must be grounded in smart zoning, infrastructure investment, and support for entrepreneurs in historically underserved areas. If recovery is to be citywide, policy must go neighborhood by neighborhood.
 
+---
+
+**Neighborhood-level patterns are only part of the story.**  
+[See how citywide trends unfolded »](/trend-analysis)  
+[Or explore the policies that shaped recovery »](/policy)
 
 
 
