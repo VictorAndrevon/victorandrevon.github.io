@@ -53,6 +53,7 @@ Each view offers interactive maps, charts, and timelines. Click, hover, zoom—s
 **Data sources include:**
 
 - [NYC Open Data – Issued Business Licenses](https://data.cityofnewyork.us/Business/Issued-Licenses/w7w3-xahh)  
+- [Segel & Heer (2010)](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
 - [NYC SBS Certified Business List](https://www.nyc.gov/html/sbs/)  
 - [NYC Comptroller – MWBE Recovery Report (2020)](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/)  
 - [ACS Demographics – 2020](https://www.census.gov/programs-surveys/acs)  
