@@ -55,7 +55,7 @@ DCWP licenses fall into two primary categories: **"Premises"** (linked to physic
 | 2024           | 5,129               | 11,028             |
 | 2025 (partial) | 1,328               | 4,209              |
 
-
+---
 
 <div style="overflow-x:auto; width:100%;">
   <iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:500px; border:none;"></iframe>
