@@ -6,8 +6,8 @@ permalink: /trend-analysis/
 show_excerpts: false
 ---
 
-# 🕓 Trend Analysis  
-### NYC’s Business Licensing Trends from Boom to Bust—and Back Again
+# Trend Analysis  
+### NYC’s Business Licensing Trends: Harmony, Chaos and Revival
 
 When COVID hit the Big Apple in March 2020, a city known for its non-stop business activity suddenly came to a halt. As the pandemic intensified, the local economy slowed dramatically, culminating in a citywide lockdown on March 22. But just how deep was the collapse—and how resilient was the rebound?
 
@@ -19,7 +19,7 @@ To find out, we analyzed every business license issued in NYC from January 2017 
 
 The license issuance numbers reveal a clear, multi-phased narrative that mirrors the unfolding of the pandemic itself. Two distinct phases emerge in the data: the crash and the rebound.
 
-## 📉 The Crash: 2020’s Licensing Freefall
+## The Crash: 2020’s Licensing Freefall
 
 From 2017 to March 2020, license issuance in NYC was fairly stable, averaging between 800 and 900 new licenses per month, with expected seasonal variation. However, as COVID-19 spread and uncertainty grew, the numbers plummeted. By May 2020, only **128 licenses** were issued—down from **894 in February**. This represents an **85.7% decrease** over just three months.
 
@@ -31,7 +31,7 @@ Behind these figures lie real human stories: shops shuttered, dreams delayed, an
 
 ---
 
-## 🔁 The Rebound: A Steady Comeback to Pre-Pandemic Life (2021–2024)
+## The Rebound: A Steady Comeback to Pre-Pandemic Life (2021–2024)
 
 Despite the grim outlook in 2020, business licensing rebounded sharply in the years that followed. In 2021, **12,328 licenses** were issued—nearly doubling the previous year's **6,607**. Growth continued steadily into 2022 and 2023, reaching **17,236 licenses** in 2023, surpassing even the pre-pandemic peak of 2018.
 
@@ -39,7 +39,7 @@ By 2024, the city issued **16,157 new licenses**, signaling that while NYC had b
 
 ---
 
-## 👤 Premises vs. Individuals: Did the Gig Economy Take the Lead?
+## Premises vs. Individuals: Did the Gig Economy Take the Lead?
 
 DCWP licenses fall into two primary categories: **"Premises"** (linked to physical storefronts or offices) and **"Individual"** (issued to people, such as freelance contractors, guides, or vendors). This breakdown offers a window into the nature of NYC’s evolving business landscape:
 
@@ -55,6 +55,8 @@ DCWP licenses fall into two primary categories: **"Premises"** (linked to physic
 | 2024           | 5,129               | 11,028             |
 | 2025 (partial) | 1,328               | 4,209              |
 
+
+
 <div style="overflow-x:auto; width:100%;">
   <iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:500px; border:none;"></iframe>
 </div>
@@ -63,13 +65,13 @@ While physical locations recovered steadily, **individual licenses surged at a m
 
 This suggests a lasting shift toward **freelance and service-based work**, particularly in sectors where mobility, flexibility, and lower overhead made survival possible. Years later, the effects are still felt.
 
-> “[...]What may be one of the pandemic’s most unexpected economic legacies: an entrepreneurial boom.” ([New York Times, 2024](https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html))
+> “[...]What may be one of the pandemic’s most unexpected economic legacies: an entrepreneurial boom.” ([The New York Times, 2024](https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html))
 
 From tour guides and contractors to mobile vendors and remote service providers, NYC’s recovery wasn’t just about re-opening doors—it was about **re-imagining business models** altogether.
 
 ---
 
-## 🔍 What Type of Work Came Back?
+## What Type of Work Came Back?
 
 The top business license categories from 2017–2025 highlight which industries drove the rebound and reshaped the city’s commercial fabric:
 
@@ -87,7 +89,7 @@ These categories underscore how the crisis altered both the **supply and demand 
 
 ---
 
-## 🧭 What This Tells Us
+## What This Tells Us
 
 New York’s post-COVID business rebound isn’t just about raw numbers—it’s about **who** is launching ventures, **how** they're doing it, and **what kinds of businesses** are finding success.
 
@@ -97,7 +99,14 @@ New York’s post-COVID business rebound isn’t just about raw numbers—it’s
 
 In short, the city’s economy is no longer quite the same. Its skyline might be unchanged, but beneath it, the **business landscape has been reshaped** by crisis, creativity, and adaptation.
 
-Understanding this evolution is key—not only to assessing recovery, but to **preparing for what comes next**.
+Understanding this evolution is key—not only to assessing recovery, but to **preparing for what comes next**. However, looking at city-wide trends might not tell the whole story and in a metropolis as eclectic as New York, the picture can be very different from one side of the street to the other.
+
+
+### Last updated: 13 May 2025  
+*Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*
+
+**Authors:** Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481)
+
 
 ---
 
@@ -108,4 +117,3 @@ Understanding this evolution is key—not only to assessing recovery, but to **p
 - [The New York Times, *One-Third of New York’s Small Businesses May Be Gone Forever*](https://www.nytimes.com/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)  
 - [The New York Times, *Pandemic Start-Ups Are Thriving, and Helping to Fuel the Economy*](https://www.nytimes.com/2024/10/04/business/economy/pandemic-startups-small-business-economy.html)
 
-*This section is part of “Where Dreams Go to Die? COVID-19 and the Fate of NYC’s Storefronts,” created for DTU Social Data 2025.*
