@@ -55,10 +55,12 @@ DCWP licenses fall into two primary categories: **"Premises"** (linked to physic
 | 2024           | 5,129               | 11,028             |
 | 2025 (partial) | 1,328               | 4,209              |
 
+
 ---
 
+
 <div style="overflow-x:auto; width:100%;">
-  <iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:500px; border:none;"></iframe>
+  <iframe src="/assets/images/quarterly_pct_change_covid_timeline.html" style="width:100%; height:450px; border:none;"></iframe>
 </div>
 
 While physical locations recovered steadily, **individual licenses surged at a much faster rate**. For example, during the 3rd quarter of 2020—when NYC entered reopening Phase III—individual license issuance increased by **500%**, while premises licenses rose only **100%**.
