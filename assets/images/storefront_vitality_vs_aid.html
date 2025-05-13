@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="f8a06a02-e5cc-4ca6-a30e-9e125d0825bf" data-root-id="p1551" style="display: contents;"></div>
+  
+    <script type="application/json" id="f8206f2c-4e63-4996-8504-41f056946608">
+      {"98365825-2a7d-4b31-a4a8-3d52520995f0":{"version":"3.6.0","title":"Bokeh Application","roots":[{"type":"object","name":"Figure","id":"p1551","attributes":{"x_range":{"type":"object","name":"DataRange1d","id":"p1552"},"y_range":{"type":"object","name":"DataRange1d","id":"p1553"},"x_scale":{"type":"object","name":"LinearScale","id":"p1561"},"y_scale":{"type":"object","name":"LinearScale","id":"p1562"},"title":{"type":"object","name":"Title","id":"p1554","attributes":{"text":"\ud83c\udfd9\ufe0f Storefront Vitality vs. Aid Received by NTA"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1593","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p1548","attributes":{"selected":{"type":"object","name":"Selection","id":"p1549","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p1550"},"data":{"type":"map","entries":[["index",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAAEAAAA1AAAAWAAAAFkAAABaAAAAWwAAAFwAAABdAAAAXgAAAHUAAAB2AAAAdwAAAHkAAAB7AAAAfAAAAH0AAACvAAAA"},"shape":[18],"dtype":"int32","order":"little"}],["NTA",{"type":"ndarray","array":["BK09","BK17","BX05","MN01","MN03","MN04","MN06","MN09","MN11","MN12","QN01","QN02","QN03","QN06","QN08","QN10","QN12","SI01"],"shape":[18],"dtype":"object","order":"little"}],["Post-COVID",{"type":"ndarray","array":{"type":"bytes","data":"HAAAALgAAABZAAAAOgAAAEIAAABBAAAAFQAAACYAAAA9AAAAZwAAAEEAAAAlAAAAKgAAADEAAAA/AAAAHQAAABwAAAASAAAA"},"shape":[18],"dtype":"int32","order":"little"}],["Pre-COVID",{"type":"ndarray","array":{"type":"bytes","data":"OQAAALAAAACVAAAAZwAAAIUAAABeAAAAMgAAAE4AAABvAAAA8gAAAG4AAAAxAAAANgAAAEEAAACEAAAAXQAAACsAAABrAAAA"},"shape":[18],"dtype":"int32","order":"little"}],["Retention Rate (%)",{"type":"ndarray","array":{"type":"bytes","data":"+wjuI7iPSECjiy666CJaQECvsjij3U1AUsl5WcQnTED+TPgz4c9IQFgQkyuISVFAAAAAAAAARUC+5Vu+5VtIQKRXxvY7ektAGpQKE+9HRUCMLrroootNQHg5BS+n4FJAHcdxHMdxU0CKndiJndhSQF100UUX3UdAL7vssssuP0ASd8QdcUdQQLjZL8SK0jBA"},"shape":[18],"dtype":"float64","order":"little"}],["Total Aid",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAMA+KkEAAAAAYN0XQYXrUbiq/gtBAAAAAACa8EAAAAAAgKgIQQAAAAAAathAAAAAAIDMAkEAAAAAQAYZQQAAAAAYljBBAAAAAIB+H0EAAAAAgE8CQQAAAAAAjvJAAAAAAACO8kAAAAAAAGrYQAAAAADAbgJBAAAAAICu90AAAAAAAHzVQAAAAADAtQtB"},"shape":[18],"dtype":"float64","order":"little"}],["Business Count",{"type":"ndarray","array":{"type":"bytes","data":"AAAAAADAV0AAAAAAAABbQAAAAAAAADxAAAAAAAAgc0AAAAAAAMBUQAAAAAAAQGRAAAAAAACgaUAAAAAAAABUQAAAAAAAQFZAAAAAAADAWEAAAAAAACBqQAAAAAAA4GBAAAAAAACAVEAAAAAAAIBRQAAAAAAAgFRAAAAAAACAXEAAAAAAAFBwQAAAAAAAQF5A"},"shape":[18],"dtype":"float64","order":"little"}],["Bubble Size",{"type":"ndarray","array":{"type":"bytes","data":"oZUP1Ft+M0CAOUIu3Mg0QOr40ql/KiVAubpGyit+QUAonAXAijgyQEYjTzOydDlA94BBcbmiPECo9Jebd+MxQEGHYsYy3jJAZxP+7lXmM0CA2ivs5ek8QCN7+wTnPDdAJPjZcFscMkDbr6wHs7swQCT42XBbHDJAWp0qAKpaNUB2o357zidAQAAAAAAAADZA"},"shape":[18],"dtype":"float64","order":"little"}]]}}},"view":{"type":"object","name":"CDSView","id":"p1594","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1595"}}},"glyph":{"type":"object","name":"Scatter","id":"p1590","attributes":{"x":{"type":"field","field":"Total Aid"},"y":{"type":"field","field":"Retention Rate (%)"},"size":{"type":"field","field":"Bubble Size"},"line_color":{"type":"value","value":null},"fill_color":{"type":"value","value":"orangered"},"fill_alpha":{"type":"value","value":0.6},"hatch_color":{"type":"value","value":"orangered"}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"p1591","attributes":{"x":{"type":"field","field":"Total Aid"},"y":{"type":"field","field":"Retention Rate (%)"},"size":{"type":"field","field":"Bubble Size"},"line_color":{"type":"value","value":null},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"value","value":"orangered"},"fill_alpha":{"type":"value","value":0.1},"hatch_color":{"type":"value","value":"orangered"},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"Scatter","id":"p1592","attributes":{"x":{"type":"field","field":"Total Aid"},"y":{"type":"field","field":"Retention Rate (%)"},"size":{"type":"field","field":"Bubble Size"},"line_color":{"type":"value","value":null},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"value","value":"orangered"},"fill_alpha":{"type":"value","value":0.2},"hatch_color":{"type":"value","value":"orangered"},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1560","attributes":{"tools":[{"type":"object","name":"PanTool","id":"p1573"},{"type":"object","name":"WheelZoomTool","id":"p1574","attributes":{"renderers":"auto"}},{"type":"object","name":"BoxZoomTool","id":"p1575","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p1576","attributes":{"syncable":false,"line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5,"level":"overlay","visible":false,"left":{"type":"number","value":"nan"},"right":{"type":"number","value":"nan"},"top":{"type":"number","value":"nan"},"bottom":{"type":"number","value":"nan"},"left_units":"canvas","right_units":"canvas","top_units":"canvas","bottom_units":"canvas","handles":{"type":"object","name":"BoxInteractionHandles","id":"p1582","attributes":{"all":{"type":"object","name":"AreaVisuals","id":"p1581","attributes":{"fill_color":"white","hover_fill_color":"lightgray"}}}}}}}},{"type":"object","name":"ResetTool","id":"p1583"},{"type":"object","name":"HoverTool","id":"p1584","attributes":{"renderers":"auto","tooltips":[["NTA","@NTA"],["Total Aid","@{Total Aid}{$0,0}"],["Retention Rate","@{Retention Rate (%)}{0.0}%"],["Certified Businesses","@{Business Count}"]]}},{"type":"object","name":"SaveTool","id":"p1585"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p1568","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1569","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1570"},"axis_label":"License Retention Rate (%)","major_label_policy":{"type":"object","name":"AllLabels","id":"p1571"}}}],"below":[{"type":"object","name":"LinearAxis","id":"p1563","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1564","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"NumeralTickFormatter","id":"p1586"},"axis_label":"Total Aid Received (USD)","major_label_policy":{"type":"object","name":"AllLabels","id":"p1566"}}}],"center":[{"type":"object","name":"Grid","id":"p1567","attributes":{"axis":{"id":"p1563"}}},{"type":"object","name":"Grid","id":"p1572","attributes":{"dimension":1,"axis":{"id":"p1568"}}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('f8206f2c-4e63-4996-8504-41f056946608').textContent;
+              const render_items = [{"docid":"98365825-2a7d-4b31-a4a8-3d52520995f0","roots":{"p1551":"f8a06a02-e5cc-4ca6-a30e-9e125d0825bf"},"root_ids":["p1551"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

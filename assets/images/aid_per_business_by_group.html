@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bokeh Plot</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="f948301b-b5d6-4e77-9d80-c10c49b5d5f0" data-root-id="p6260" style="display: contents;"></div>
+  
+    <script type="application/json" id="c8bf93ef-1922-47e9-8f01-5835cc9ecf0e">
+      {"777f8897-615a-484d-beae-b7c866bb8ff7":{"version":"3.6.0","title":"Bokeh Application","roots":[{"type":"object","name":"Figure","id":"p6260","attributes":{"width":1000,"height":500,"x_range":{"type":"object","name":"FactorRange","id":"p6259","attributes":{"factors":[["BRONX","ASIAN"],["BRONX","BLACK"],["BRONX","HISPANIC"],["BRONX","NON-MINORITY"],["BRONX","NATIVE AMERICAN"],["BROOKLYN","ASIAN"],["BROOKLYN","BLACK"],["BROOKLYN","HISPANIC"],["BROOKLYN","NON-MINORITY"],["BROOKLYN","NATIVE AMERICAN"],["MANHATTAN","ASIAN"],["MANHATTAN","BLACK"],["MANHATTAN","HISPANIC"],["MANHATTAN","NON-MINORITY"],["MANHATTAN","NATIVE AMERICAN"],["QUEENS","ASIAN"],["QUEENS","BLACK"],["QUEENS","HISPANIC"],["QUEENS","NON-MINORITY"],["QUEENS","NATIVE AMERICAN"],["STATEN IS","ASIAN"],["STATEN IS","BLACK"],["STATEN IS","HISPANIC"],["STATEN IS","NON-MINORITY"],["STATEN IS","NATIVE AMERICAN"]]}},"y_range":{"type":"object","name":"DataRange1d","id":"p6262"},"x_scale":{"type":"object","name":"CategoricalScale","id":"p6270"},"y_scale":{"type":"object","name":"LinearScale","id":"p6271"},"title":{"type":"object","name":"Title","id":"p6263","attributes":{"text":"Aid Per Business by Borough and Ethnicity"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p6288","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p6256","attributes":{"selected":{"type":"object","name":"Selection","id":"p6257","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p6258"},"data":{"type":"map","entries":[["x",[["BRONX","ASIAN"],["BRONX","BLACK"],["BRONX","HISPANIC"],["BRONX","NON-MINORITY"],["BRONX","NATIVE AMERICAN"],["BROOKLYN","ASIAN"],["BROOKLYN","BLACK"],["BROOKLYN","HISPANIC"],["BROOKLYN","NON-MINORITY"],["BROOKLYN","NATIVE AMERICAN"],["MANHATTAN","ASIAN"],["MANHATTAN","BLACK"],["MANHATTAN","HISPANIC"],["MANHATTAN","NON-MINORITY"],["MANHATTAN","NATIVE AMERICAN"],["QUEENS","ASIAN"],["QUEENS","BLACK"],["QUEENS","HISPANIC"],["QUEENS","NON-MINORITY"],["QUEENS","NATIVE AMERICAN"],["STATEN IS","ASIAN"],["STATEN IS","BLACK"],["STATEN IS","HISPANIC"],["STATEN IS","NON-MINORITY"],["STATEN IS","NATIVE AMERICAN"]]],["counts",[15406.451612903225,19439.954337899544,27440.932642487045,34149.41176470588,0,52585.944919278256,50717.70972037283,53234.880450070326,56032.82674772036,45500.0,61223.72935568862,56839.27981869982,60462.448756046986,60905.03305452292,63887.5,39476.52916073969,37041.0447761194,43069.49806949807,43417.73162939297,42000.0,36864.583333333336,39780.48780487805,44292.13483146067,44206.89655172414,75000.0]],["color",["#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c"]]]}}},"view":{"type":"object","name":"CDSView","id":"p6289","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p6290"}}},"glyph":{"type":"object","name":"VBar","id":"p6285","attributes":{"x":{"type":"field","field":"x"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"counts"},"fill_color":{"type":"field","field":"color"}}},"nonselection_glyph":{"type":"object","name":"VBar","id":"p6286","attributes":{"x":{"type":"field","field":"x"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"counts"},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"field","field":"color"},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"VBar","id":"p6287","attributes":{"x":{"type":"field","field":"x"},"width":{"type":"value","value":0.9},"top":{"type":"field","field":"counts"},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"field","field":"color"},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p6269","attributes":{"tools":[{"type":"object","name":"HoverTool","id":"p6292","attributes":{"renderers":"auto","tooltips":[["Group","@x"],["Aid Per Business","@counts{$0,0}"]]}}]}},"toolbar_location":null,"left":[{"type":"object","name":"LinearAxis","id":"p6277","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p6278","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p6279"},"axis_label":"Aid Per Business (USD)","major_label_policy":{"type":"object","name":"AllLabels","id":"p6280"}}}],"below":[{"type":"object","name":"CategoricalAxis","id":"p6272","attributes":{"ticker":{"type":"object","name":"CategoricalTicker","id":"p6273"},"formatter":{"type":"object","name":"CategoricalTickFormatter","id":"p6274"},"axis_label":"Borough and Ethnicity","major_label_orientation":1.2,"major_label_policy":{"type":"object","name":"AllLabels","id":"p6275"}}}],"center":[{"type":"object","name":"Grid","id":"p6276","attributes":{"axis":{"id":"p6272"}}},{"type":"object","name":"Grid","id":"p6281","attributes":{"dimension":1,"axis":{"id":"p6277"}}},{"type":"object","name":"Span","id":"p6291","attributes":{"location":45957.29205573092,"dimension":"height","line_color":"red","line_width":2,"line_dash":[6]}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('c8bf93ef-1922-47e9-8f01-5835cc9ecf0e').textContent;
+              const render_items = [{"docid":"777f8897-615a-484d-beae-b7c866bb8ff7","roots":{"p6260":"f948301b-b5d6-4e77-9d80-c10c49b5d5f0"},"root_ids":["p6260"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

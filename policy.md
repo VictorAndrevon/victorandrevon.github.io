@@ -6,84 +6,78 @@ permalink: /policy/
 show_excerpts: false
 ---
 
-![Shuttered storefront in Tremont](assets/images/bronx_shuttered.jpg)
+![Shuttered storefront in NYC](assets/images/shuttered_covid.jpg)
 
 # Who Was Left Behind?
 
-While headlines touted New York City’s comeback, not every community felt the recovery equally. From minority-owned businesses in the Bronx to immigrant-run storefronts in Flushing, many entrepreneurs found themselves locked out of aid, delayed in reopening, or left to navigate a broken safety net.
+As New York City proclaimed its post-COVID recovery, the reality on the ground revealed a more complex story. While storefronts reopened and economic activity resumed in many parts of the city, countless others—especially in historically underserved communities—were left behind. Minority- and immigrant-owned businesses faced compounded barriers, from reduced access to relief funding to higher closure rates and slower rebounds.
 
-Using a combination of NYC Open Data, demographic census data, and spatial business license trends, we ask a difficult but necessary question: **Who was left behind?**
+Drawing on NYC Open Data, SBS-certified business records, and COVID-era grant distributions, this analysis traces how public policy met—or failed to meet—the needs of the city’s most vulnerable business owners. It tells a story of imbalance, missed opportunities, and the lingering scars of an unequal recovery.
 
 ---
 
 ## Policy on Paper, Gaps in Practice
 
-Billions were allocated to support small businesses post-COVID—from federal PPP loans to New York’s SBS neighborhood grant programs. But as [the NYC Comptroller’s MWBE Recovery Report](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/) highlights, Minority- and Women-Owned Business Enterprises (MWBEs) received just a fraction of the support relative to their need.
+In the wake of the pandemic’s economic devastation, city and federal authorities introduced a range of aid initiatives—including Paycheck Protection Program (PPP) loans, SBS emergency grants, and neighborhood support funds—to help small businesses recover. Despite billions being allocated, access to these resources was not equitable. Minority- and Women-Owned Business Enterprises (M/WBEs), in particular, encountered significant barriers in obtaining relief.  As detailed in the [the NYC Comptroller’s MWBE Recovery Report](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/), structural inequalities and systemic challenges limited these businesses’ ability to benefit from federal and local recovery efforts, leaving many without the support needed to survive and rebuild.
 
-> “While Black-owned businesses accounted for 26% of all small businesses pre-pandemic in NYC, they received only 4.8% of federal relief dollars.”  
-> – NYC Comptroller, 2023
+> According to a 2020 survey by the NYC Comptroller’s Office, most M/WBEs struggled to access public aid:
+>
+> - **Only 6 out of 40 applicants** were approved for the City’s Business Continuity Loan.
+> - **Only 15 out of 48 applicants** were approved for the Employee Retention Grant.
+> - Barriers included **restrictive criteria**, **lack of outreach**, and **fear of debt**.  
+> – NYC Comptroller, *July 2020*
 
----
-
-## Where Aid Missed the Mark
-
-Using geospatial mapping of NYC business license data and SBA/PPP coverage by zip code, we identified stark mismatches between **aid availability** and **community need**.
-
-<iframe src="/assets/images/aid_vs_race.html" style="width:100%; height: 600px; border:none;"></iframe>
-
-**Observations:**
-- Several neighborhoods with large Black and Hispanic populations received below-median levels of aid.
-- Aid was concentrated in commercial corridors with more access to financial infrastructure (banks, accountants, etc.)
-- Language barriers and digital exclusion hindered immigrant-owned businesses from applying.
 
 ---
 
-## A Tale Told by Demographics
+## Disparity in Dollars: Who Got What?
 
-We merged business license losses with ACS racial/ethnic and income data per NTA (Neighborhood Tabulation Area).
+The distribution of COVID relief money reveals further disparity. By linking SBS-certified businesses to grant disbursements by ZIP code, it becomes clear that aid per business varied significantly by race, ethnicity, and location.
 
-| Neighborhood | Majority Race/Ethnicity | Median Income | License Loss % |
-|--------------|--------------------------|----------------|----------------|
-| Tremont–Morrisania | Black/Hispanic | $29,800 | -58.4% |
-| Chinatown–LES       | Asian | $36,200 | -49.7% |
-| SoHo–Tribeca        | White | $110,000 | -14.2% |
-| Flatbush            | Black/Caribbean | $42,000 | -45.9% |
+<iframe src="/assets/images/aid_per_business_by_group.html" style="width: 140%; margin-left: -22%; height: 520px; border:none;"></iframe>
 
-> 🔎 These disparities highlight how COVID-19 intersected with long-standing structural inequalities—not just in health, but in economic recovery.
+In the Bronx, for example, Hispanic-owned businesses received an average of $27,440 in aid—while non-minority firms in Manhattan received over $60,000. Native American and Asian-owned businesses received even less on average, despite being concentrated in areas heavily impacted by closures.
+
+This uneven distribution suggests that eligibility on paper did not translate to access in practice. Gaps in digital infrastructure, language accessibility, and financial literacy likely deepened the divide.
 
 ---
 
-## Race, Income, and Recovery: A Crossplot
+## More Money, More Survival?
 
-We visualized the correlation between median income, racial makeup, and business license loss at the neighborhood level.
+Was greater aid a lifeline? To answer that, the relationship between financial support and actual business continuity must be explored.
 
-<iframe src="/assets/images/race_income_closures.html" style="width:100%; height: 600px; border:none;"></iframe>
+By analyzing license records before and after March 2020, a “retention rate” was computed for each Neighborhood Tabulation Area (NTA)—the percentage of pre-COVID businesses still active afterward. These rates were then matched with the amount of aid received and the number of certified businesses in each area.
 
-Key trends:
-- NTAs with higher proportions of Black and Hispanic residents saw steeper declines.
-- Recovery was positively correlated with income and pre-existing commercial capital.
+<iframe src="/assets/images/storefront_vitality_vs_aid.html" style="width:110%; height: 600px; border:none;"></iframe>
 
----
-
-## Policy Lessons from the Fallout
-
-The data leaves little doubt: **Universal aid was not universally felt.** If future crises are to be met equitably, targeted recovery frameworks must:
-
-- **Partner with local BIDs and MWBE networks** to distribute aid.
-- **Expand language access and digital tools** in immigrant-heavy neighborhoods.
-- **Overlay demographic and commercial data** when designing policy zones.
-
-As SBS Commissioner Dynishal Gross said:
-
-> “Policies and programs that make it possible for small businesses to operate successfully in neighborhood commercial spaces contribute to safety, lead to job creation and help entrepreneurial New Yorkers live out their dreams.”
+The resulting picture is sobering. Many NTAs with significant aid still saw less than half of businesses survive. In areas like BK09 and BX05, retention hovered near 50% despite hundreds of thousands in grants. This suggests that while aid was critical, it was often insufficient on its own—particularly without parallel support in the form of technical assistance, legal help, or rent relief.
 
 ---
 
-## The Path Forward
 
-If we want a just recovery, we must **build economic resilience where it was weakest**. The story isn’t just about recovery—it’s about redesigning the systems that failed when New Yorkers needed them most.
+## A Timeline of Attrition
 
-> Recovery is a verb. For many communities, it hasn’t happened yet.
+Beyond immediate closures, long-term survivorship paints an even starker picture. A cohort of businesses that opened before March 2020 was tracked across subsequent years, revealing borough-level trends in endurance.
+
+<iframe src="/assets/images/survivorship_by_borough.html" style="width:132%; margin-left: -17%; height: 500px; border:none;"></iframe>
+
+The Bronx saw over 30% of its pre-pandemic businesses close by 2025, while Queens and Manhattan fared relatively better. Staten Island and Brooklyn also suffered steady attrition over time.
+This curve illustrates that recovery was not a single event, but a long, uneven climb—one that many businesses, especially in lower-income neighborhoods, could not complete.
+
+---
+
+## Lessons for Future Crises
+
+Together, the visual and quantitative data point to a clear conclusion: the recovery was unequal not just in outcome, but in design. Universal programs failed to account for unequal starting points. Going forward, equitable policy must:
+
+- 📍 **Use demographic overlays**, not just geography or income, to guide aid distribution.
+- 🤝 **Leverage MWBE networks and community partners** to increase outreach and trust.
+- 🌐 **Build digital and multilingual infrastructure** to ensure access across barriers.
+
+> "Policies that support small businesses locally make neighborhoods safer, stronger, and more resilient."  
+> – NYC SBS Commissioner Dynishal Gross
+
+The pandemic tested the city's resilience—and revealed its fractures. Rebuilding requires more than reopening. It demands a recalibration of policy, practice, and purpose.
 
 ---
 
@@ -97,7 +91,10 @@ If we want a just recovery, we must **build economic resilience where it was wea
 ### Sources
 
 - [NYC Open Data - Issued Business Licenses](https://data.cityofnewyork.us/Business/Issued-Licenses/w7w3-xahh)  
-- [NYC Comptroller – MWBE Recovery Report](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/)  
+- [SBS Certified Business List](https://www.nyc.gov/html/sbs/)  
+- [NYC Comptroller – MWBE Recovery Report (2020)](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/)  
 - [ACS Demographics – 2020](https://www.census.gov/programs-surveys/acs)  
 - [Federal Reserve Bank of NY – COVID Business Impact](https://www.newyorkfed.org/)  
 - [SBA PPP Distribution Data](https://data.sba.gov/)
+
+
