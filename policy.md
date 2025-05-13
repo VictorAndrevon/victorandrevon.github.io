@@ -10,15 +10,15 @@ show_excerpts: false
 
 # Who Was Left Behind?
 
-As New York City proclaimed its post-COVID recovery, the reality on the ground revealed a more complex story. While storefronts reopened and economic activity resumed in many parts of the city, countless others—especially in historically underserved communities—were left behind. Minority- and immigrant-owned businesses faced compounded barriers, from reduced access to relief funding to higher closure rates and slower rebounds.
+As New York City declared itself open for business after the pandemic, the reality on the ground revealed a more complex story. While storefronts reopened and economic activity resumed in many parts of the city, countless others—especially in historically underserved communities—were left behind. Minority- and immigrant-owned businesses faced multiple challenges, from reduced access to relief funding to higher closure rates and slower rebounds.
 
-Drawing on NYC Open Data, SBS-certified business records, and COVID-era grant distributions, this analysis traces how public policy met—or failed to meet—the needs of the city’s most vulnerable business owners. It tells a story of imbalance, missed opportunities, and the lingering scars of an unequal recovery.
+Drawing on NYC Open Data, SBS-certified business records, and COVID-era grant distributions, this analysis examines how public policy met—or failed to meet—the needs of the city’s most vulnerable business owners. It reveals a narrative of disparity, missed opportunities, and the lasting impact of an uneven recovery.
 
 ---
 
 ## Policy on Paper, Gaps in Practice
 
-In the wake of the pandemic’s economic devastation, city and federal authorities introduced a range of aid initiatives—including Paycheck Protection Program (PPP) loans, SBS emergency grants, and neighborhood support funds—to help small businesses recover. Despite billions being allocated, access to these resources was not equitable. Minority- and Women-Owned Business Enterprises (M/WBEs), in particular, encountered significant barriers in obtaining relief.  As detailed in the [the NYC Comptroller’s MWBE Recovery Report](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/), structural inequalities and systemic challenges limited these businesses’ ability to benefit from federal and local recovery efforts, leaving many without the support needed to survive and rebuild.
+In response to the economic fallout of the pandemic, city and federal authorities introduced a range of aid initiatives—including Paycheck Protection Program (PPP) loans, SBS emergency grants, and neighborhood support funds—to help small businesses recover. Despite billions being allocated, access to these resources was far from equitable.  Minority- and Women-Owned Business Enterprises (M/WBEs), in particular, encountered significant barriers in obtaining relief. As outlined in the [the NYC Comptroller’s MWBE Recovery Report](https://comptroller.nyc.gov/reports/minority-and-women-owned-businesses-at-risk-impact-of-covid-19-on-new-york-city-firms/), structural inequalities and systemic challenges limited these businesses’ ability to benefit from federal and local recovery efforts, leaving many without the support needed to survive and rebuild.
 
 > According to a 2020 survey by the NYC Comptroller’s Office, most M/WBEs struggled to access public aid:
 >
@@ -50,38 +50,47 @@ By analyzing license records before and after March 2020, a “retention rate”
 
 <iframe src="/assets/images/storefront_vitality_vs_aid.html" style="width:110%; height: 600px; border:none;"></iframe>
 
-The resulting picture is sobering. Many NTAs with significant aid still saw less than half of businesses survive. In areas like BK09 and BX05, retention hovered near 50% despite hundreds of thousands in grants. This suggests that while aid was critical, it was often insufficient on its own—particularly without parallel support in the form of technical assistance, legal help, or rent relief.
+The data paints a concerning trend. In several Neighborhood Tabulation Areas (NTAs), even significant aid still saw less than half of businesses survive. In areas like BK09 and BX05, retention remained near 50% despite hundreds of thousands in grants. This suggests that while aid was critical, it was often insufficient on its own—particularly without parallel support in the form of technical assistance, legal help, or rent relief.
 
 ---
 
 
-## A Timeline of Attrition
+## Tracking Business Losses
 
-Beyond immediate closures, long-term survivorship paints an even starker picture. A cohort of businesses that opened before March 2020 was tracked across subsequent years, revealing borough-level trends in endurance.
+While immediate closures drew early attention, longer-term survivorship reveals deeper challenges. A set of businesses that opened before March 2020 was tracked across subsequent years, revealing borough-level trends in business endurance.
 
 <iframe src="/assets/images/survivorship_by_borough.html" style="width:132%; margin-left: -17%; height: 500px; border:none;"></iframe>
 
-The Bronx saw over 30% of its pre-pandemic businesses close by 2025, while Queens and Manhattan fared relatively better. Staten Island and Brooklyn also suffered steady attrition over time.
-This curve illustrates that recovery was not a single event, but a long, uneven climb—one that many businesses, especially in lower-income neighborhoods, could not complete.
+The Bronx saw over 30% of its pre-pandemic businesses close by 2025, while Queens and Manhattan showed comparatively stronger retention. Brooklyn and Staten Island experienced gradual but steady declines.
+hese patterns make clear that recovery was not a singular moment, but an extended, uneven process—one that many businesses, particularly in lower-income neighborhoods, struggled to sustain over time.
 
 ---
-
 ## Lessons for Future Crises
 
-Together, the visual and quantitative data point to a clear conclusion: the recovery was unequal not just in outcome, but in design. Universal programs failed to account for unequal starting points. Going forward, equitable policy must:
+The COVID-19 pandemic underscored the critical role of neighborhood businesses in maintaining community resilience. Commissioner Dynishal Gross of the NYC Department of Small Business Services emphasized this point during a City Council hearing:
 
-- 📍 **Use demographic overlays**, not just geography or income, to guide aid distribution.
-- 🤝 **Leverage MWBE networks and community partners** to increase outreach and trust.
-- 🌐 **Build digital and multilingual infrastructure** to ensure access across barriers.
+> “The effective operation of businesses that provide critical goods and services for neighborhoods is also an aspect of resilience... When things get hard for the city, those neighborhood businesses provide the access we need.”  
+> — Commissioner Dynishal Gross, NYC Department of Small Business Services  
+> *[City Council Testimony via citymeetings.nyc]*
 
-> "Policies that support small businesses locally make neighborhoods safer, stronger, and more resilient."  
-> – NYC SBS Commissioner Dynishal Gross
+Building on this understanding, the Adams administration implemented targeted investments to strengthen commercial corridors. In **February 2025**, SBS announced **$5.3 million in grants** aimed at merchant organizing and Business Improvement District (BID) support—designed to empower local organizations that intimately understand their communities’ needs. As Commissioner Gross explained:
 
-The pandemic tested the city's resilience—and revealed its fractures. Rebuilding requires more than reopening. It demands a recalibration of policy, practice, and purpose.
+> “By putting money into the hands of the people and organizations who know their communities best, we are ensuring that our investments in neighborhood development make the biggest impact possible on the health of our city’s economy.”  
+> — Commissioner Dynishal Gross, NYC Department of Small Business Services  
+> *[NYC.gov – SBS Press Release, Feb 2025]*
+
+These efforts signal a move toward more equitable, community-informed recovery strategies. To build on this progress, future economic policy should:
+
+- **Integrate demographic overlays** to guide aid distribution, ensuring resources reach the most affected populations.
+- **Collaborate with MWBE networks and community partners** to improve outreach and trust.
+- **Develop digital and multilingual infrastructure** to remove access barriers for diverse entrepreneurs.
+
+The pandemic revealed systemic weaknesses that disproportionately impacted vulnerable entrepreneurs. Addressing them demands intentional, data-informed, and inclusive policy.
 
 ---
 
-### Last updated: 30 April 2025  
+
+### Last updated: 13 May 2025  
 *Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*
 
 **Authors:** Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481)
@@ -96,5 +105,9 @@ The pandemic tested the city's resilience—and revealed its fractures. Rebuildi
 - [ACS Demographics – 2020](https://www.census.gov/programs-surveys/acs)  
 - [Federal Reserve Bank of NY – COVID Business Impact](https://www.newyorkfed.org/)  
 - [SBA PPP Distribution Data](https://data.sba.gov/)
+- [NYC SBS Council Testimony – 2020–2024](https://www.citymeetings.nyc/)
+- [SBS Recovery Grants Announcement – NYC.gov (Feb 2025)](https://www.nyc.gov/)
+- [StatenIslander.org – Coverage on NYC BID funding](https://www.statenislander.org/)
+- [amNewYork – Business Recovery Articles](https://www.amny.com/)
 
 

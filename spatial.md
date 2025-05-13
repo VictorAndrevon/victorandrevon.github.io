@@ -59,7 +59,7 @@ These granular differences underscore how pandemic recovery followed existing li
 
 ---
 
-## The New Urban Pulse: Rethinking Where Business Thrives
+## The New Geography of Commerce
 
 Before COVID-19, Midtown Manhattan, Lower Manhattan, and Downtown Brooklyn buzzed with dense clusters of small businesses.
 
@@ -76,7 +76,8 @@ As NYC Planning Director Dan Garodnick noted, these businesses are "breathing li
 Citywide policies—from outdoor dining expansions to zoning reforms and neighborhood grants—have played a key role in this shift. The data confirms what residents already sense: while downtowns recover unevenly, local neighborhoods are regaining momentum.
 
 ---
-## ⚖️ A Tale of Two Recoveries — And the Road Ahead
+
+## One City, Two Recoveries
 
 New York City's post-pandemic recovery has not been one story, but two.
 
@@ -103,7 +104,7 @@ City leaders agree that revitalization efforts must be grounded in smart zoning,
 
 
 
-### Last updated: 30 April 2025  
+### Last updated: 13 May 2025 
 *Created for DTU Social Data 2025 — Final Project (“The Viz & the Notebook”)*
 
 **Authors:** Anshjyot Singh (s215806) & Victor Jules René Andrevon-Canut (s232481)
